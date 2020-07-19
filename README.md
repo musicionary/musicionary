@@ -1,5 +1,21 @@
-### Hi there 👋
+# Chip Carnes 
 
+Software Engineer @ Eventbrite | 🎻 Violist | 🧗‍ Climber | 🍞 Rye Bread Enthusiast
+
+## About 
+My career and life focus is on how information communicates. Previously, that has manifest itself as building data applications that help people make data driven decisions.  Currently, as a side project/passion, that looks like working on note-taking workflows that help people more confidently consume, retain, and integrate the vast amount of information available to us in the twenty-first century.  
+
+I'm not big on self-promotion or building a self brand; I care much more about helping others achieve their visions with excellence, sustainablity, and joyous energy.
+
+## Technologies
+I'm confident talking about:
+- Backend development using Python or Go
+- Financial Data Applications
+- Data Visualiations using D3.js
+
+## Find Me
+- Blog @ [Unified Theory](http://chipcarnes.com)
+- [LinkedIn](https://www.linkedin.com/in/chipcarnes/)
 <!--
 **musicionary/musicionary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
