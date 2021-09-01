@@ -1,6 +1,6 @@
 # Chip Carnes 
 
-Software Engineer @ Eventbrite | 🎻 Violist | 🧗‍ Climber | 🍞 Rye Bread Enthusiast
+Software Engineer @ [Sure](https://sureapp.com) | 🎻 Violist | 🧗‍ Climber | 🍞 Rye Bread Enthusiast
 
 ## About 
 My career and life focus is on how information communicates. Previously, that has manifest itself as building data applications that help people make data driven decisions.  Currently, as a side project/passion, that looks like working on note-taking workflows that help people more confidently consume, retain, and integrate the vast amount of information available to us in the twenty-first century.  
