@@ -9,7 +9,7 @@ I'm not big on self-promotion or building a self brand; I care much more about h
 
 ## Technologies
 I'm confident talking about:
-- Backend development using Python or Go
+- Backend development using Python or Rust
 - Financial Data Applications
 - Data Visualiations using D3.js
 
