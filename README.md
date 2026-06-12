@@ -14,7 +14,7 @@ I'm confident talking about:
 - Data Visualiations using D3.js
 
 ## Find Me
-- Blog @ [Unified Theory](http://chipcarnes.com)
+- [Bio](http://chipcarnes.com)
 - [LinkedIn](https://www.linkedin.com/in/chipcarnes/)
 <!--
 **musicionary/musicionary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
